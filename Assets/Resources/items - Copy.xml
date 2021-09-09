@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+
+
+    <Item name="Capsule1">
+      <Type>Capsule</Type>
+
+      <PozX>1.70</PozX>
+      <PozY>18.70</PozY>
+      <PozZ>1.70</PozZ>
+
+      <RotX>15.70</RotX>
+      <RotY>12.70</RotY>
+      <RotZ>5.70</RotZ>
+
+      <ScaleX>1.70</ScaleX>
+      <ScaleY>1.70</ScaleY>
+      <ScaleZ>1.70</ScaleZ>
+
+      <VelocityX>0.20</VelocityX>
+      <VelocityY>0.10</VelocityY>
+      <VelocityZ>0.10</VelocityZ>
+
+      <ForceX>-0.20</ForceX>
+      <ForceY>-0.10</ForceY>
+      <ForceZ>-0.10</ForceZ>
+
+
+
+    </Item>
+
+
+    <Item name="Cylinder1">
+      <Type>Cylinder</Type>
+
+      <PozX>1.70</PozX>
+      <PozY>1.70</PozY>
+      <PozZ>2.70</PozZ>
+
+      <RotX>0.0</RotX>
+      <RotY>0.0</RotY>
+      <RotZ>0.0</RotZ>
+
+      <ScaleX>0.05</ScaleX>
+      <ScaleY>1.0</ScaleY>
+      <ScaleZ>0.05</ScaleZ>
+
+      <VelocityX>0.</VelocityX>
+      <VelocityY>0.</VelocityY>
+      <VelocityZ>0.</VelocityZ>
+
+      <ForceX>-0.</ForceX>
+      <ForceY>-0.</ForceY>
+      <ForceZ>-0.</ForceZ>
+
+
+
+    </Item>
+
+
+    <Item name="Sphere2">
+      <Type>Sphere</Type>
+      
+      <PozX>1.10</PozX>
+      <PozY>28.70</PozY>
+      <PozZ>1.70</PozZ>
+
+      <RotX>15.70</RotX>
+      <RotY>12.70</RotY>
+      <RotZ>25.70</RotZ>
+
+      <ScaleX>0.70</ScaleX>
+      <ScaleY>0.70</ScaleY>
+      <ScaleZ>0.70</ScaleZ>
+
+      <VelocityX>0.20</VelocityX>
+      <VelocityY>0.10</VelocityY>
+      <VelocityZ>0.10</VelocityZ>
+
+      <ForceX>-0.20</ForceX>
+      <ForceY>-0.10</ForceY>
+      <ForceZ>-0.10</ForceZ>
+
+      
+
+    </Item>
+
+    <Item name="Cube2">
+      <PozX>3.70</PozX>
+      <PozY>88.70</PozY>
+      <PozZ>1.70</PozZ>
+
+      <RotX>25.70</RotX>
+      <RotY>45.70</RotY>
+      <RotZ>45.70</RotZ>
+
+      <ScaleX>3.70</ScaleX>
+      <ScaleY>1.70</ScaleY>
+      <ScaleZ>1.70</ScaleZ>
+    </Item>
+
+    <Item name="Cube3">
+      <PozX>5.70</PozX>
+      <PozY>8.70</PozY>
+      <PozZ>1.70</PozZ>
+
+      <RotX>25.70</RotX>
+      <RotY>45.70</RotY>
+      <RotZ>45.70</RotZ>
+
+      <ScaleX>1.70</ScaleX>
+      <ScaleY>1.70</ScaleY>
+      <ScaleZ>1.70</ScaleZ>
+    </Item>
+
+  </Items>
+</ItemCollection>

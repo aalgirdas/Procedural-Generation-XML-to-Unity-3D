@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?test value?>
+<!--This is comment by you-->
+<ItemCollection>
+  <Items>
+
+
+    <Item id="1" name="Holmes">
+      <Type>Cylinder</Type>
+      <PozX>0</PozX>
+      <PozY>3</PozY>
+      <PozZ>0</PozZ>
+	  <ScaleY>1.2</ScaleY>
+      <TimeToShow>1</TimeToShow>
+      <CanvasText>Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night,</CanvasText>
+      <Mass>85</Mass>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb>was</Verb>
+      <VerbType>NoMotion</VerbType>
+      <TimeToShow>1</TimeToShow>
+    </Item>
+	
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>10</TimeToShow>
+    </Item>
+	
+	
+	
+    <Item id="2" name="table">
+      <Type>Cube</Type>
+      <PozX>-1</PozX>
+      <PozY>3</PozY>
+      <PozZ>-1</PozZ>
+	  <ScaleX>3</ScaleX>
+      <TimeToShow>11</TimeToShow>
+      <CanvasText> was seated at the breakfast table.</CanvasText>
+    </Item>
+
+
+    <Item item_type="show_verb">
+      <Verb>seated</Verb>
+      <VerbType>NoMotion</VerbType>
+      <TimeToShow>11</TimeToShow>
+    </Item>
+	
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>20</TimeToShow>
+    </Item>
+
+
+
+    <Item id="4" name="hearth-rug">
+      <Type>Cube</Type>
+      <PozX>-5</PozX>
+      <PozY>2</PozY>
+      <PozZ>-5</PozZ>
+	  <ScaleX>3</ScaleX>
+	  <ScaleY>0.2</ScaleY>
+	  <ScaleZ>2</ScaleZ>
+      <TimeToShow>22</TimeToShow>
+      <CanvasText>I stood upon the hearth-rug </CanvasText>
+      <Mass>180</Mass>
+    </Item>
+
+
+    <Item id="3" name="Watson">
+      <Type>Cylinder</Type>
+      <PozX>-5</PozX>
+      <PozY>2.2</PozY>
+      <PozZ>-5</PozZ>
+	  <ScaleX>1.1</ScaleX>
+	  <ScaleZ>1.1</ScaleZ>
+      <TimeToShow>24</TimeToShow>
+      <Mass>80</Mass>
+    </Item>
+	
+	
+    <Item item_type="show_verb">
+      <Verb>stood</Verb>
+      <VerbType>NoMotion</VerbType>
+      <TimeToShow>24</TimeToShow>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>30</TimeToShow>
+    </Item>
+
+	
+    <Item id="7" name="stick">
+      <Type>Cube</Type>
+      <PozX>-7</PozX>
+      <PozY>3</PozY>
+      <PozZ>-5</PozZ>
+	  <ScaleX>0.32</ScaleX>
+	  <ScaleZ>0.32</ScaleZ>
+	  <ScaleY>1.2</ScaleY>
+      <TimeToShow>32</TimeToShow>
+      <CanvasText>and picked up the stick which our visitor had left behind him the night before.</CanvasText>
+    </Item>
+	
+
+
+    <Item item_type="show_verb">
+      <Verb>picked</Verb>
+      <VerbType>InMotion</VerbType>
+      <TimeToShow>34</TimeToShow>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>50</TimeToShow>
+    </Item>
+	
+    
+    <Item item_type="show_action" name="stick">
+      <TimeToShow>34</TimeToShow>
+      <TimeToStop>50</TimeToStop>
+      <VerbType>InMotion</VerbType>
+    </Item>
+	
+	
+	
+	<Item>
+		<CanvasText>It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a</CanvasText>
+      <TimeToShow>52</TimeToShow>
+    </Item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  </Items>
+</ItemCollection>
