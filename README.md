@@ -11,7 +11,7 @@ The main motivation for this project is the development of a visual debugger for
 
 ## Example: 10 minute video.
 
-https://youtu.be/tl2sTSFBebU
+https://youtu.be/JG3OkZ7_8uw
 
 ## Related project 
 
