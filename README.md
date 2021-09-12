@@ -13,3 +13,6 @@ The main motivation for this project is the development of a visual debugger for
 
 https://www.youtube.com/50ee1281-65c9-49bd-b9e2-fa449f00ce59
 
+## Related project 
+
+https://github.com/aalgirdas/novel-semantic-parsing
