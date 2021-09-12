@@ -7,3 +7,9 @@ The system clock starts after you hit the play button in the UNITY editor.  It s
 ## Motivation
 
 The main motivation for this project is the development of a visual debugger for semantic parsers. The semantic parser must identify the physical objects in the sentence and instantiate them in the scene. The **.\Assets\Resources\items_files\items.xml** XML file is used as a bridge between the semantic parser and the 3D semantic information debugger. 
+
+
+## Example: 10 minute video.
+
+blob:https://www.youtube.com/50ee1281-65c9-49bd-b9e2-fa449f00ce59
+
