@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<ItemCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <Item name="Holmes" item_type="">
+      <TimeToShow>2</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText>Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night,</CanvasText>
+      <Type>Human</Type>
+      <PozX>0.5</PozX>
+      <PozY>3</PozY>
+      <PozZ>0.5</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>3</ScaleX>
+      <ScaleY>3</ScaleY>
+      <ScaleZ>3</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>85</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>3</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>was</Verb>
+      <VerbType>NoMotion:be%2:42:05::</VerbType>
+      <FrameInfo>Existance:ARG1-Entity(Sherlock Holmes):ARG2-State(very late):ARGM-ADV(save ... night)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>20</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb />
+      <VerbType />
+      <FrameInfo />
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="table" item_type="">
+      <TimeToShow>30</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText> was seated at the breakfast table.</CanvasText>
+      <Type>Cube</Type>
+      <PozX>2.5</PozX>
+      <PozY>3</PozY>
+      <PozZ>-1.9</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>3</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>30</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>seated</Verb>
+      <VerbType>NoMotion</VerbType>
+      <FrameInfo>Posture:ARG1-Agent(Sherlock Holmes):ARG2-Location(table)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>50</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb />
+      <VerbType />
+      <FrameInfo />
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="hearth-rug" item_type="">
+      <TimeToShow>60</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText>I stood upon the hearth-rug </CanvasText>
+      <Type>Cube</Type>
+      <PozX>-4.5</PozX>
+      <PozY>2</PozY>
+      <PozZ>-5</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>4</ScaleX>
+      <ScaleY>0.2</ScaleY>
+      <ScaleZ>2</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>180</Mass>
+    </Item>
+    <Item name="Watson" item_type="">
+      <TimeToShow>65</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Type>Human</Type>
+      <PozX>-5</PozX>
+      <PozY>2.2</PozY>
+      <PozZ>-5</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>2.5</ScaleX>
+      <ScaleY>2.5</ScaleY>
+      <ScaleZ>2.5</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>80</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>70</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>stood</Verb>
+      <VerbType>NoMotion</VerbType>
+      <FrameInfo>Posture:ARG1-Agent(Watson):ARG2-Location(hearth-rug)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>90</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb />
+      <VerbType />
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="stick" item_type="">
+      <TimeToShow>100</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText>and picked up the stick which our visitor had left behind him the night before.</CanvasText>
+      <Type>Cube</Type>
+      <PozX>-7</PozX>
+      <PozY>3</PozY>
+      <PozZ>-4</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>0.32</ScaleX>
+      <ScaleY>1.2</ScaleY>
+      <ScaleZ>0.32</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>110</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>picked</Verb>
+      <VerbType>InMotion</VerbType>
+      <FrameInfo>Cause_motion:ARG0-Agent(Watson):ARG1-Theme(stick)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>130</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb />
+      <VerbType />
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="stick" item_type="show_action">
+      <TimeToShow>134</TimeToShow>
+      <TimeToStop>141.3</TimeToStop>
+      <VerbType>InMotion</VerbType>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="">
+      <TimeToShow>152</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText>It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a</CanvasText>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>152</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>was</Verb>
+      <VerbType>noMotion</VerbType>
+      <FrameInfo>Existance:ARG1-Entity(stick):ARG2-State(a fine ... known as a)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="window" item_type="">
+      <TimeToShow>160</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <CanvasText>Then with an expression of interest he laid down his cigarette, and carrying the cane to the window, he looked over it again with a convex lens.</CanvasText>
+      <Type>Cube</Type>
+      <PozX>11.5</PozX>
+      <PozY>3</PozY>
+      <PozZ>11.5</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>3.9</ScaleX>
+      <ScaleY>3.32</ScaleY>
+      <ScaleZ>0.32</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="" item_type="show_verb">
+      <TimeToShow>175</TimeToShow>
+      <TimeToStop>-1</TimeToStop>
+      <Verb>carrying</Verb>
+      <VerbType>Motion</VerbType>
+      <FrameInfo>Bringing:ARG0-Agent(Sherlock Holmes):ARG1-Theme(stick):ARG2-Goal(window)</FrameInfo>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>0</TargetX>
+      <TargetY>0</TargetY>
+      <TargetZ>0</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>0</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="stick" item_type="show_action">
+      <TimeToShow>186</TimeToShow>
+      <TimeToStop>188</TimeToStop>
+      <VerbType>Motion</VerbType>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>-1.915</TargetX>
+      <TargetY>0.5</TargetY>
+      <TargetZ>-0.95</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>4.5</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="Holmes" item_type="show_action">
+      <TimeToShow>191</TimeToShow>
+      <TimeToStop>195</TimeToStop>
+      <VerbType>Motion</VerbType>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>8</TargetX>
+      <TargetY>-0.1</TargetY>
+      <TargetZ>8</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>1.5</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+    <Item name="stick" item_type="show_action">
+      <TimeToShow>191</TimeToShow>
+      <TimeToStop>195</TimeToStop>
+      <VerbType>Motion</VerbType>
+      <Type />
+      <PozX>0</PozX>
+      <PozY>0</PozY>
+      <PozZ>0</PozZ>
+      <TargetX>6</TargetX>
+      <TargetY>-0.1</TargetY>
+      <TargetZ>7</TargetZ>
+      <RotX>0</RotX>
+      <RotY>0</RotY>
+      <RotZ>0</RotZ>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+      <ScaleZ>1</ScaleZ>
+      <VelocityX>0</VelocityX>
+      <VelocityY>0</VelocityY>
+      <VelocityZ>0</VelocityZ>
+      <Speed>1.5</Speed>
+      <ForceX>0</ForceX>
+      <ForceY>0</ForceY>
+      <ForceZ>0</ForceZ>
+      <Mass>1</Mass>
+    </Item>
+  </Items>
+</ItemCollection>

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?test value?>
+<!--This is comment by you-->
+<ItemCollection>
+  <Items>
+
+
+    <Item id="1" name="Holmes">
+      <Type>Human</Type>
+      <PozX>0.50</PozX>
+      <PozY>3</PozY>
+      <PozZ>0.50</PozZ>
+	  <ScaleX>3</ScaleX>
+	  <ScaleY>3</ScaleY>
+	  <ScaleZ>3</ScaleZ>
+      <TimeToShow>2</TimeToShow>
+      <CanvasText>Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night,</CanvasText>
+      <Mass>85</Mass>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb>was</Verb>
+      <VerbType>NoMotion:be%2:42:05::</VerbType>
+      <FrameInfo>Existance:ARG1-Entity(Sherlock Holmes):ARG2-State(very late):ARGM-ADV(save ... night)</FrameInfo>
+      <TimeToShow>3</TimeToShow>
+    </Item>
+	
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <FrameInfo></FrameInfo>
+      <TimeToShow>20</TimeToShow>
+    </Item>
+	
+	
+	
+    <Item id="2" name="table">
+      <Type>Cube</Type>
+      <PozX>2.5</PozX>
+      <PozY>3</PozY>
+      <PozZ>-1.9</PozZ>
+	  <ScaleX>3</ScaleX>
+      <TimeToShow>30</TimeToShow>
+      <CanvasText> was seated at the breakfast table.</CanvasText>
+    </Item>
+
+
+    <Item item_type="show_verb">
+      <Verb>seated</Verb>
+      <VerbType>NoMotion</VerbType>
+      <FrameInfo>Posture:ARG1-Agent(Sherlock Holmes):ARG2-Location(table)</FrameInfo>
+      <TimeToShow>30</TimeToShow>
+    </Item>
+	
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+	  <FrameInfo></FrameInfo>
+      <TimeToShow>50</TimeToShow>
+    </Item>
+
+
+
+    <Item id="4" name="hearth-rug">
+      <Type>Cube</Type>
+      <PozX>-4.5</PozX>
+      <PozY>2</PozY>
+      <PozZ>-5</PozZ>
+	  <ScaleX>4</ScaleX>
+	  <ScaleY>0.2</ScaleY>
+	  <ScaleZ>2</ScaleZ>
+      <TimeToShow>60</TimeToShow>
+      <CanvasText>I stood upon the hearth-rug </CanvasText>
+      <Mass>180</Mass>
+    </Item>
+
+
+    <Item id="3" name="Watson">
+      <Type>Human</Type>
+      <PozX>-5</PozX>
+      <PozY>2.2</PozY>
+      <PozZ>-5</PozZ>
+	  <ScaleX>2.5</ScaleX>
+	  <ScaleY>2.5</ScaleY>
+	  <ScaleZ>2.5</ScaleZ>
+      <TimeToShow>65</TimeToShow>
+      <Mass>80</Mass>
+	  
+    </Item>
+	
+	
+    <Item item_type="show_verb">
+      <Verb>stood</Verb>
+      <VerbType>NoMotion</VerbType>
+      <FrameInfo>Posture:ARG1-Agent(Watson):ARG2-Location(hearth-rug)</FrameInfo>
+      <TimeToShow>70</TimeToShow>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>90</TimeToShow>
+    </Item>
+
+	
+    <Item id="7" name="stick">
+      <Type>Cube</Type>
+      <PozX>-7</PozX>
+      <PozY>3</PozY>
+      <PozZ>-4</PozZ>
+	  <ScaleX>0.32</ScaleX>
+	  <ScaleZ>0.32</ScaleZ>
+	  <ScaleY>1.2</ScaleY>
+      <TimeToShow>100</TimeToShow>
+      <CanvasText>and picked up the stick which our visitor had left behind him the night before.</CanvasText>
+    </Item>
+	
+
+
+    <Item item_type="show_verb">
+      <Verb>picked</Verb>
+      <VerbType>InMotion</VerbType>
+      <FrameInfo>Cause_motion:ARG0-Agent(Watson):ARG1-Theme(stick)</FrameInfo>
+      <TimeToShow>110</TimeToShow>
+    </Item>
+
+    <Item item_type="show_verb">
+      <Verb></Verb>
+      <VerbType></VerbType>
+      <TimeToShow>130</TimeToShow>
+    </Item>
+	
+    
+    <Item item_type="show_action" name="stick">
+      <TimeToShow>134</TimeToShow>
+      <TimeToStop>141.3</TimeToStop>
+      <VerbType>InMotion</VerbType>
+    </Item>
+	
+	
+	
+	<Item>
+		<CanvasText>It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a</CanvasText>
+		<TimeToShow>152</TimeToShow>
+    </Item>
+	
+
+    <Item item_type="show_verb">
+      <Verb>was</Verb>
+      <VerbType>noMotion</VerbType>
+      <FrameInfo>Existance:ARG1-Entity(stick):ARG2-State(a fine ... known as a)</FrameInfo>
+      <TimeToShow>152</TimeToShow>
+    </Item>
+
+
+
+
+    <Item id="7" name="window">
+      <Type>Cube</Type>
+      <PozX>11.5</PozX>
+      <PozY>3</PozY>
+      <PozZ>11.5</PozZ>
+	  <ScaleX>3.9</ScaleX>
+	  <ScaleY>3.32</ScaleY>
+	  <ScaleZ>0.32</ScaleZ>
+      <TimeToShow>160</TimeToShow>
+      <CanvasText>Then with an expression of interest he laid down his cigarette, and carrying the cane to the window, he looked over it again with a convex lens.</CanvasText>
+    </Item>
+
+
+    <Item item_type="show_verb">
+      <Verb>carrying</Verb>
+      <VerbType>Motion</VerbType>
+      <FrameInfo>Bringing:ARG0-Agent(Sherlock Holmes):ARG1-Theme(stick):ARG2-Goal(window)</FrameInfo>
+      <TimeToShow>175</TimeToShow>
+    </Item>
+
+
+
+	<Item item_type="show_action" name="stick">
+      <TimeToShow>186</TimeToShow>
+      <TimeToStop>188</TimeToStop>
+      <VerbType>Motion</VerbType>
+
+      <TargetX>-1.915</TargetX>
+      <TargetY>0.5</TargetY>
+      <TargetZ>-0.950</TargetZ>
+
+      <Speed>4.50</Speed>
+    </Item>
+	
+	<Item item_type="show_action" name="Holmes">
+      <TimeToShow>191</TimeToShow>
+      <TimeToStop>195</TimeToStop>
+      <VerbType>Motion</VerbType>
+
+      <TargetX>8.</TargetX>
+      <TargetY>-0.1</TargetY>
+      <TargetZ>8.</TargetZ>
+
+      <Speed>1.5</Speed>
+    </Item>
+	
+	
+	<Item item_type="show_action" name="stick">
+      <TimeToShow>191</TimeToShow>
+      <TimeToStop>195</TimeToStop>
+      <VerbType>Motion</VerbType>
+
+      <TargetX>6.0</TargetX>
+      <TargetY>-0.1</TargetY>
+      <TargetZ>7.0</TargetZ>
+
+      <Speed>1.5</Speed>
+    </Item>
+	
+  </Items>
+  
+  
+  
+  
+  
+  
+  
+  
+</ItemCollection>
